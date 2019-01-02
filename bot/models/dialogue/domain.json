@@ -1,0 +1,25 @@
+{
+  "states": [
+    "intent_goodbye",
+    "intent_greet",
+    "intent_inform",
+    "intent_mood_affirm",
+    "intent_mood_deny",
+    "intent_mood_great",
+    "intent_mood_unhappy",
+    "entity_group",
+    "slot_group_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_action_deactivate_form",
+    "prev_action_retrieve_image",
+    "prev_utter_happy",
+    "prev_utter_goodbye",
+    "prev_utter_greet",
+    "prev_utter_unclear",
+    "prev_utter_did_that_help",
+    "prev_utter_ask_picture",
+    "prev___main__.ApiAction"
+  ]
+}
