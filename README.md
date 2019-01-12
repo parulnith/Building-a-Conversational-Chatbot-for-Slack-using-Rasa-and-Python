@@ -9,4 +9,4 @@ This is a Github repo linked to the articles I wrote on Medium for Towards Data 
 
 Through these articles, we are going to build a chatbot called ‘Robo’ capable of checking in on people’s mood and taking the necessary actions to cheer them up. We will then deploy it to Slack. It will be a fully function Slackbot capable of listening and responding to your requests. The demo screenshot below should motivate you enough to build one of your own.
 
-![Alt Text](https://github.com/parulnith/Building-a-Conversational-Chatbot-for-Slack-using-Rasa-and-Python/tree/master/gif)
+![Alt Text](https://github.com/parulnith/Building-a-Conversational-Chatbot-for-Slack-using-Rasa-and-Python/blob/master/gif/Robo.gif)
