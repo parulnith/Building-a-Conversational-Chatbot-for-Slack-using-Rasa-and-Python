@@ -33,10 +33,7 @@ def train_dialogue(interpreter,domain_file = 'domain.yml',
     training_data = agent.load_data('./data/stories.md')
 
     agent.train(
-            training_data,
-            validation_split=0.0,
-            epochs=200
-            )
+            training_data)
 
     agent.persist('models/dialogue')
     return agent
